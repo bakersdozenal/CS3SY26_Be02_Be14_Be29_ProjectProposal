@@ -1,9 +1,9 @@
-# CS3SY26_ProjectProposal by AlMendozaof CSt Unit
+# CS3SY26_ProjectProposal by AlMendoza of CSt Unit
 
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	: 
+### Project Title or Name of the Application	: Pythonmon
 ### Section			   	      : 9-Beryllium
 ### Group Members			    : ARCEDERA, LARGA, VILLARIN
 ### Date (Proposal Date)  : Nov 13, 2026
